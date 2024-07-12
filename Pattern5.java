@@ -9,23 +9,24 @@ public class Pattern5 {
         for (int  i = 1; i <= n; i++){
             //inner loop 1 -> space print
             for (int j =  1; j <= n-i; j++){
-                System.out.print(" ");
+                System.out.print("  ");
             }
 
             //inner loop 2 -> star print
             for( int j = 1; j <= i; j++){
-                System.out.print("*");
+                System.out.print("* ");
             }
             System.out.println();
-            in.close();
         }
+        in.close();
     }
 }
 
 
 // Output:
-// Enter n: 4
-//    *
-//   **
-//  ***
-// ****
+// Enter n: 5
+//         * 
+//       * * 
+//     * * * 
+//   * * * * 
+// * * * * *

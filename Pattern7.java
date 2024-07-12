@@ -11,8 +11,8 @@ public class Pattern7 {
                 System.out.print(j + " ");
             }
             System.out.println();
-            in.close();
         }
+        in.close();
     }
 }
 

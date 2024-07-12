@@ -10,8 +10,8 @@ public class Pattern3 {
                 System.out.print("* ");
             }
             System.out.println();
-            in.close();
         }
+        in.close();
     }
 }
 

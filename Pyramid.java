@@ -17,8 +17,8 @@ public class Pyramid {
                 System.out.print("* ");
             }
             System.out.println();
-            in.close();
         }
+        in.close();
     }
 }
 
