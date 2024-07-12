@@ -1,10 +1,6 @@
-import java.util.Scanner;
-
 public class Floyds_triangle {
     public static void main(String args[]){
-        Scanner in = new Scanner(System.in);
-        System.out.print("Enter n: ");
-        int n = in.nextInt();
+        int n = 5;
         int number = 1;
 
         for(int i =1; i <= n; i++){
@@ -14,14 +10,13 @@ public class Floyds_triangle {
             }
             System.out.println();
         }
-        in.close();
     }
 }
 
 
 
 // Output:-
-// Enter n: 5
+//
 // 1 
 // 2 3 
 // 4 5 6 

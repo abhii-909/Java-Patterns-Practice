@@ -10,6 +10,8 @@ public class Pattern1{
 }
 
 
+// Output:-
+// 
 // * * * * *
 // * * * * *
 // * * * * *

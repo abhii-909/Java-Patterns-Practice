@@ -1,10 +1,6 @@
-import java.util.Scanner;
-
 public class Pyramid {
     public static void main(String args[]){
-        Scanner in = new Scanner(System.in);
-        System.out.print("Enter n: ");
-        int n = in.nextInt();
+        int n = 4;
 
         for (int  i = 1; i <= n; i++){
             //inner loop 1 -> space print
@@ -18,13 +14,12 @@ public class Pyramid {
             }
             System.out.println();
         }
-        in.close();
     }
 }
 
 
 // Output :
-// Enter n: 4
+// 
 //    * 
 //   * * 
 //  * * * 
