@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Random {
+public class Pyramid {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
         System.out.print("Enter n: ");
