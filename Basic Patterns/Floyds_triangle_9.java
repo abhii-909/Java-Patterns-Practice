@@ -1,4 +1,4 @@
-public class Floyds_triangle {
+public class Floyds_triangle_9 {
     public static void main(String args[]){
         int n = 5;
         int number = 1;
