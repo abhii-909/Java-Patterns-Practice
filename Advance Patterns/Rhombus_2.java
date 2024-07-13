@@ -1,4 +1,4 @@
-public class Pattern2 {
+public class Rhombus_2 {
     public static void main(String args[]){
         int n = 5;
 

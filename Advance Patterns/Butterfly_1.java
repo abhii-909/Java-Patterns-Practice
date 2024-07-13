@@ -1,4 +1,4 @@
-public class Butterfly1 {
+public class Butterfly_1 {
     public static void main(String args[]){
         int n = 5;
 
