@@ -1,4 +1,4 @@
-public class Alphabet_triangle {
+public class Alphabet_triangle_12 {
     public static void main(String[] args) {
         nLetterTriangle(4);
     }
