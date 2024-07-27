@@ -12,3 +12,10 @@ public class Alphabet_triangle_12 {
         }
     }
 }
+
+
+//OUTPUT:
+// A 
+// A B 
+// A B C 
+// A B C D 
